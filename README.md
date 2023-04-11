@@ -5,6 +5,7 @@ Este guia é destinado para programadores iniciantes e experientes que desejam a
 
 ## Tópicos de Estudo
 
+-   [Escolha um caminho](#-definindo-sua-inguagem)
 -   [Documentações das linguagens de estudo](#-linguagens-de-programacao)
 -   [Sites que uso para estudar Java](#-sites-e-cursos-para-aprender-java)
 -   [Sites que uso para estudar Spring](#-sites-e-cursos-para-aprender-spring)
@@ -12,18 +13,12 @@ Este guia é destinado para programadores iniciantes e experientes que desejam a
 -   [Sites que uso para estudar MongoDB](#-sites-e-cursos-para-aprender-mongodb)
 -   [Sites que uso para estudar PostgreSQL](#-sites-e-cursos-para-aprender-postgresql)
 -   [Sites que uso para estudar Kotlin](#-sites-e-cursos-para-aprender-kotlin)
--   [Guia de sobrevivência Git ](#guia-de-sobrevivencia-git)
+-   [Guia de sobrevivência Git](#-guia-de-sobrevivencia-git)
+-   [Ferramentas que uso pra codar](#-Ferramentas-uteis-para-codar)
+-   [Ideias para portifolio](#-Ideias-de-projeto)
+-   [Desafios](#-desafios)
 -   Como obter [Livros de graça](https://github.com/EbookFoundation/free-programming-books)
 
-## Projetos Práticos
-
--   Desenvolvimento de uma aplicação web usando um framework específico
--   Criação de um banco de dados para uma aplicação
--   Análise de dados e visualização em uma plataforma específica
--   Desenvolvimento de um aplicativo móvel
--   Configuração de ferramentas de DevOps para uma aplicação
-
-Lembre-se de que o aprendizado contínuo é fundamental para se manter atualizado no mundo da programação. Utilize este guia como um ponto de partida para seus estudos e nunca pare de aprender!
 
 ##  💌 Doações
 
@@ -72,36 +67,21 @@ Por fim, é importante lembrar que a programação não é uma corrida de curta 
 
 ## 🔤 Linguagens de programação
 
-- [C#](https://docs.microsoft.com/pt-br/dotnet/csharp/) - Linguagem de programação baseada no C++
-- [Clojure](https://clojure.org/) - Linguagem de programação funcional (muito utilizada para IAs)
 - [Dart](https://dart.dev/) - Linguagem de script voltada à web desenvolvida pela Google, utilizada no Flutter
-- [Elixir](https://elixir-lang.org/) - Linguagem de programação funcional, concorrente, de propósito geral que executa na máquina virtual Erlang (BEAM)
-- [F#](https://docs.microsoft.com/pt-br/dotnet/fsharp/) - Linguagem de programação orientada a objetos e funcional
-- [Fortran](https://www.fortran90.org/) - Linguagem de programação desenvolvida pela IBM, usado na ciência da computação e análises numéricas
 - [Go](https://golang.org/) - Linguagem de código aberto para tornar os programadores mais produtivos
-- [Haskell](https://www.haskell.org/) - Linguagem de programação puramente funcional e estaticamente tipada
 - [Java](https://www.java.com/pt_BR/) - Linguagem de programação tipada, orientada a objetos e de alta performance
 - [JavaScript](http://brasil.js.org) - Constante evolução e crescimento no mercado
-- [Julia](https://julialang.org/) - Linguagem de programação de código aberto e alto desempenho para computação técnica
 - [Kotlin](https://kotlinlang.org/) - Linguagem de programação multiplataforma, orientada a objetos compila para a MVJ
-- [Lua](https://www.lua.org/portugues.html) - Linguagem de programação originária do Brasil, permite programação procedural e POO (popular em jogos)
-- [MatLab](https://www.mathworks.com/help/matlab/) - Linguagem de programação de alto nível com foco em cálculos e construção de gráficos
-- [Pascal](https://docs.freepascal.org/) - Linguagem de programação imperativa, estruturada e orientada à objetos
-- [Perl](https://www.perl.org/) - Linguagem de programação multiplataforma e dinâmica
 - [PHP](https://www.php.net/) - A linguagem de programação dominante na web
 - [Python](https://www.python.org/) - Muito indicada para projetos de dados, inteligência artificial, aprendizado de máquina e chatbots
 - [R](https://cran.r-project.org/) - Linguagem de programação com foco em matemática, estatística, ciência de dados e aprendizagem de máquina
 - [Ruby](https://www.ruby-lang.org/pt/) - Linguagem de programação de multiparadigma e tipagem dinâmica
-- [Rust](https://www.rust-lang.org/pt-BR/) - Linguagem estáticamente tipada para sistemas rápidos, concorrentes, de baixo nível e seguros
-- [Swift](https://www.apple.com/br/swift/) - Criada pela Apple para principalmente desenvolvimento de apps para iPhone
-- [Scala](https://www.scala-lang.org/) - Linguagem de programação moderna, multi-paradigma, concisa, elegante e com tipagem segura
-- [Visual Basic](https://docs.microsoft.com/pt-br/dotnet/visual-basic/) - Linguagem de programação da Microsoft (com IDE gráfica)
 
-## 🧭 Web Developer Roadmap
+## Definindo sua linguagem
 
-- [Web Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap): Trilha de caminhos para seguir para se tornar um desenvolvedor WEB
+- [Web Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap): Link conteudo uma grande quantidade de roadmaps de linguagem de programação
 
-## 🐶 Sites e cursos para aprender Kotlin
+## Sites e cursos para aprender Kotlin
 
 > Cursos para aprender Kotlin em Português
 
@@ -358,25 +338,12 @@ Por fim, é importante lembrar que a programação não é uma corrida de curta 
 - [Dev Challenge Back-End](https://devchallenge.vercel.app/challenges?type=backend) - Treine suas habilidades com desafios Back-end
 - [Codelândia](https://www.figma.com/file/Yb9IBH56g7T1hdIyZ3BMNO/Desafios---Codel%C3%A2ndia?node-id=624%3A2) - Desafios front-end e back-end
 
-## ⚙️ 9 Ferramentas que todo DEV precisa conhecer
-
-- [Unminify](https://unminify.com/) - Ferramenta desofuscação de códigos.
-- [Figma](https://www.figma.com) - ferramenta para design de interfaces.
-- [Insomnia](https://insomnia.rest) - é um API Client, uma ferramenta para fazer testes de API's.
-- [Rive](https://rive.app) - ferramenta colaborativa de animação para apps, jogos e sites.
-- [CloudCraft](https://www.cloudcraft.co) - plataforma com foco em criar desenhos de arquiteturas AWS.
-- [BundlePhobia](https://bundlephobia.com) - site para descobrir o custo de adicionar um npm package no seu pacote.
-- [Font Flipper](https://fontflipper.com) - Tinder das fontes, basta apertar X caso não goste e ❤ se você gostar, adicione aos favoritos já com o nome da fonte e faça o download pelo Google fonts.
-- [VisBug](https://github.com/GoogleChromeLabs/ProjectVisBug) - é uma extensão de Chrome, criada pelo google, ferramenta de design que te permite mudar o layout das páginas da web desde o estilo de fontes até a posição dos elementos.
-- [ThunderClient](https://www.thunderclient.io) - é um Rest API Client totalmente leve e compatível com Visual Studio Code. Idêntico ao Postman, ele serve para realizar testes com nossas requisções HTTP.
-- [SmallDevTools](https://smalldev.tools/) - Ferramentas GRATUITAS para desenvolvedores, como codificador/decodificador, formatadores HTML/CSS/Javascript, minificadores, geradores de dados falsos ou de teste &amp; muito mais
-
-## 🗃️ Ideias para projeto
+## Ideias para projetos
 
 - [App Ideas](https://github.com/florinpop17/app-ideas) - Compilado de desafios para você testar seus conhecimentos e aumentar seu portfólio
 - [What to Code](https://what-to-code.com/) - Compilado de desafios e ideias para você praticar seus códigos e aumentar seu portfólio
 
-## 🔧 Ferramentas de desenvolvimento:
+## Ferramentas uteis para codar
 
 - [Internxt](https://internxt.com/) - Internxt Drive é um armazenamento de arquivos de conhecimento zero serviço baseado na melhor privacidade e segurança da classe
 - [Motion](https://motion.dev/) - Uma nova biblioteca de animação, construída na API Web Animations para o menor tamanho de arquivo e o desempenho mais rápido.
@@ -465,8 +432,18 @@ Por fim, é importante lembrar que a programação não é uma corrida de curta 
 - [XML Sitemaps](https://www.xml-sitemaps.com/) - Criador de sitemaps.xml
 - [Patterns.dev](https://www.patterns.dev/) - Design patterns para projetos web modernos
 - [Devhints](https://devhints.io/) - Documentação curta, prática e objetiva de cada linguagem de programação
+- [Unminify](https://unminify.com/) - Ferramenta desofuscação de códigos.
+- [Figma](https://www.figma.com) - ferramenta para design de interfaces.
+- [Insomnia](https://insomnia.rest) - é um API Client, uma ferramenta para fazer testes de API's.
+- [Rive](https://rive.app) - ferramenta colaborativa de animação para apps, jogos e sites.
+- [CloudCraft](https://www.cloudcraft.co) - plataforma com foco em criar desenhos de arquiteturas AWS.
+- [BundlePhobia](https://bundlephobia.com) - site para descobrir o custo de adicionar um npm package no seu pacote.
+- [Font Flipper](https://fontflipper.com) - Tinder das fontes, basta apertar X caso não goste e ❤ se você gostar, adicione aos favoritos já com o nome da fonte e faça o download pelo Google fonts.
+- [VisBug](https://github.com/GoogleChromeLabs/ProjectVisBug) - é uma extensão de Chrome, criada pelo google, ferramenta de design que te permite mudar o layout das páginas da web desde o estilo de fontes até a posição dos elementos.
+- [ThunderClient](https://www.thunderclient.io) - é um Rest API Client totalmente leve e compatível com Visual Studio Code. Idêntico ao Postman, ele serve para realizar testes com nossas requisções HTTP.
+- [SmallDevTools](https://smalldev.tools/) - Ferramentas GRATUITAS para desenvolvedores, como codificador/decodificador, formatadores HTML/CSS/Javascript, minificadores, geradores de dados falsos ou de teste &amp; muito mais
 
-## 📁 Desafios
+## Desafios de desenvolvimento
 
 - [Ace Front End](https://www.acefrontend.com/) - Desafios de programação Front-end. Resultados via texto. IDE integrada
 - [AdventoOfCode](https://adventofcode.com/) - Desafios de programação por temporada. Sem IDE integrada. Validação manual feita pelo usuário

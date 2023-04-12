@@ -1,5 +1,5 @@
 
-![enter image description here](banner.jpg)
+![enter image description here](banner_logo.jpg)
 
 Este guia é destinado para programadores iniciantes e experientes que desejam aprimorar seus conhecimentos em diversas áreas da programação. Aqui, você encontrará uma lista de tópicos para estudar, recursos para aprender e projetos para praticar suas habilidades.
 
